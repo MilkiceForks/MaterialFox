@@ -46,7 +46,7 @@ panel[type="autocomplete-richlistbox"] > .autocomplete-richlistbox
 	margin: 0 !important;
 	padding: 8px 0 !important;
 	background: var(--arrowpanel-background) !important;
-	border-radius: 4px !important;
+	border-radius: 2px !important;
 	color: inherit !important;
 }
 
