@@ -115,7 +115,7 @@
 #searchbar
 {
 	font-size: 14px !important;
-	border-radius: 99px !important;
+	border-radius: 2px !important;
 	background-color: var(--toolbar-field-background-color) !important;
 	border: 0 !important;
 	box-shadow: none !important;
